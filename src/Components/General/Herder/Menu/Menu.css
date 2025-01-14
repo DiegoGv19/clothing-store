@@ -1,0 +1,21 @@
+.menu-list {
+    align-items: center;
+    display: flex;
+    list-style: none;
+}
+
+.menu-list-iteam {
+    padding: 8px 16px;
+}
+
+.menu-list-link {
+    color: rgb(23, 32, 42);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.menu-list-link:hover {
+    color: rgb(93, 109, 126);
+}

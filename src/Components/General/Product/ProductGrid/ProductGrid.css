@@ -1,0 +1,14 @@
+.product-grid {
+    display: grid;
+    grid-template-rows: 380px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+}
+
+.no-products,
+.load-data {
+    color: rgb(23, 32, 42);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
