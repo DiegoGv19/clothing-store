@@ -1,0 +1,12 @@
+
+.product-second-information {
+    border: 1px solid rgba(28, 40, 51, 0.2);
+    border-radius: 8px;
+    color: rgb(23, 32, 42);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 16px;
+}
+
+.product-information-title {
+    margin: 0;
+}

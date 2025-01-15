@@ -2,7 +2,7 @@ import CategoryCard from "../CategoryCard/CategoryCard"
 
 import useRequestApi from "../../../../Hooks/useRequestApi"
 
-import "./Categories.css"
+import "./CategoriesGrid.css"
 
 const Categories = () => {
     const categories = useRequestApi(`products/categories`)

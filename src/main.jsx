@@ -1,12 +1,12 @@
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
-import GeneralPage from './Pages/GeneralPage.jsx'
+import GeneralPage from './Pages/GeneralPage/GeneralPage.jsx'
 import CategoriesStore from './Pages/CategoriesStore/CategoriesStore.jsx'
 import CategoryStore from './Pages/CategoryStore/CategoryStore.jsx'
 import MainStore from './Pages/MainStore/MainStore.jsx'
 import PageNotFound from './Pages/PageNotFound.jsx'
-import ProductStore from './Pages/ProductStore.jsx'
+import ProductStore from './Pages/ProductStore/ProductStore.jsx'
 
 import "./main.css"
 

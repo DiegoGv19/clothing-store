@@ -1,0 +1,6 @@
+.product-section {
+    display: grid;
+    gap: 20px;
+    grid-template-rows: 1fr 1fr;
+    grid-template-rows: auto auto;
+}

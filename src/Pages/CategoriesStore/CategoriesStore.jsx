@@ -1,4 +1,4 @@
-import Categories from "../../Components/General/Category/Categories/Categories"
+import Categories from "../../Components/General/Category/CategoriesGrid/CategoriesGrid"
 
 import "./CategoriesStore.css"
 

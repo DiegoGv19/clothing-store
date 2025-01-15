@@ -1,7 +1,17 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
 body {
     height: 100%;
     margin: 0 auto;
     max-width: 1200px;
     padding: 16px 32px;
     width: 100%;
+}
+
+@media screen and (max-width: 680px) {
+    body {
+        padding: 8px 12px;
+    }
 }

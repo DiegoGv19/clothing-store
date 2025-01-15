@@ -1,6 +1,6 @@
 .product-grid {
     display: grid;
-    grid-template-rows: 380px;
+    grid-template-rows: 400px;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 16px;
 }
